@@ -1,1 +1,2274 @@
-.
+var Water = 
+    /* color: #1fb4d6 */
+    /* shown: false */
+    ee.FeatureCollection(
+        [ee.Feature(
+            ee.Geometry.Point([55.219863998799894, 24.99500006949158]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "0"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.067772018819426, 25.002312317458802]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "1"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.071548569112394, 24.98924331288028]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "2"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.05884562721786, 24.978507019606006]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "3"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.05524073830185, 24.987065010342853]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "4"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.05146418800888, 24.992821868968743]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "5"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.061077225118254, 24.995155653766044]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "6"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.078243362813566, 25.039955724416714]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "7"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.088028061299894, 25.043688325535975]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "8"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.24526988258896, 25.01537993197432]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "9"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.226558792501066, 25.014252127211844]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "10"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.20028662031052, 25.032296432019365]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "11"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.19809793775437, 25.030935474631075]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "12"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17415117566941, 25.020941696603177]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "13"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.173489066672744, 25.04530145662594]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "14"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.176965209556045, 25.05276621980107]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "15"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16379019887489, 25.04930604755051]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "16"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.18400332601112, 25.05704270222612]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "17"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.157481643271865, 25.056031910755674]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "18"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14770649547728, 25.063333946139846]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "19"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14993809337767, 25.061895583463578]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "20"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.18645905132445, 25.06912610058201]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "21"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.18495701427611, 25.06652160864555]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "22"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.179506765557846, 25.06450017375126]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "23"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17397068615111, 25.061390208784886]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "24"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16289852733763, 25.06403368403888]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "25"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16867064113768, 25.063858749938795]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "26"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.166589246942124, 25.059407564916473]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "27"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.167833791925034, 25.060709893425745]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "28"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17197512264403, 25.05824128883226]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "29"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17369173641356, 25.05903824535741]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "30"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17472170467528, 25.057949718076884]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "31"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.180536733819565, 25.063256197237717]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "32"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.18139504070433, 25.061584583907983]),
+            {
+              "land_type": "water",
+              "land_class": 1,
+              "system:index": "33"
+            })]),
+    Vegetation = 
+    /* color: #98ff00 */
+    /* shown: false */
+    ee.FeatureCollection(
+        [ee.Feature(
+            ee.Geometry.Point([55.167780147744736, 25.06482088439816]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "0"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16838096256407, 25.064548766327487]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "1"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17140649433287, 25.064471018196272]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "2"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16023777599486, 25.061302739878876]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "3"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.159079061700425, 25.06048636041189]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "4"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.175075756265244, 25.066502171930384]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "5"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17621301288756, 25.0673768210595]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "6"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16024850483092, 25.068076535866282]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "7"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.15945457096251, 25.068912301091522]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "8"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.18095515842589, 25.067687805911522]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "9"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17713569278868, 25.067512877029408]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "10"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16926434287137, 25.07334744472739]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "11"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17552998313016, 25.070840222735423]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "12"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16480114707059, 25.0729976028797]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "13"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.164693858709995, 25.075893485847573]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "14"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.162922298045885, 25.07674495274535]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "15"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.161634837718736, 25.07670608255679]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "16"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16130760821892, 25.076919868441216]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "17"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16258433971001, 25.076186192598488]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "18"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.159703647228014, 25.075316465209703]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "19"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.157077648521636, 25.08127751196392]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "20"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.15866015184042, 25.08068476219222]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "21"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.15879426229117, 25.081015147664896]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "22"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16288194882986, 25.081622471575443]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "23"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16370806920645, 25.081938278818182]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "24"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.161599852920745, 25.083065461102493]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "25"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.161556937576506, 25.083901124027026]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "26"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.161413903713196, 25.08799032792237]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "27"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16034102010724, 25.08845672637446]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "28"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.158452744960755, 25.086513387764445]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "29"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16184305715558, 25.086241317896555]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "30"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16228293943402, 25.08618301713188]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "31"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16914939451215, 25.08695064164217]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "32"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16431068944928, 25.087504494311347]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "33"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16732549238202, 25.088884256727408]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "34"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16656374502179, 25.089467250256142]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "35"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.167432780742615, 25.08991421008058]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "36"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.168688054561585, 25.08729072691146]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "37"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17102694082257, 25.08695064164217]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "38"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16323780584332, 25.08523076737786]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "39"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16201471853253, 25.085172466131823]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "40"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.15474330131349, 25.09183335848705]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "41"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.1533592814618, 25.092445486866403]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "42"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16413103286561, 25.09165846410192]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "43"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.15138517562684, 25.094864821441718]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "44"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.13565670196351, 25.089462546659924]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "45"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.13696561996278, 25.090181568214536]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "46"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.170129325511255, 25.10901553085406]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "47"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.165859248759546, 25.11167740720034]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "48"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16517260325173, 25.1137369213912]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "49"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.159379031779565, 25.106334166162583]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "50"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16167500269631, 25.105770683497134]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "51"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.1770172382615, 25.10374989672338]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "52"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.179602887751855, 25.105518086976623]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "53"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.170397546412744, 25.108782371041276]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "54"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17908965492467, 25.115978878483062]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "55"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17203008079747, 25.120680571950913]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "56"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17258798027257, 25.12110798966019]),
+            {
+              "land_type": "vegetation",
+              "land_class": 2,
+              "system:index": "57"
+            })]),
+    Urban = 
+    /* color: #f14432 */
+    /* shown: false */
+    ee.FeatureCollection(
+        [ee.Feature(
+            ee.Geometry.Point([55.1866910054722, 25.112104964434266]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "0"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.1851245954075, 25.1110849127477]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "1"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.183011014703766, 25.109753975368882]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "2"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.18913718009378, 25.110570026283092]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "3"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.18644424224283, 25.114222758850442]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "4"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.20382495665933, 25.11220211177003]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "5"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.19657226348306, 25.110919760721693]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "6"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.1947054460087, 25.11143464571335]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "7"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.214972217325226, 25.1140090381427]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "8"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.216967780832306, 25.1129404289989]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "9"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.21969290519144, 25.110939190383384]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "10"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.22102328086282, 25.110162001506865]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "11"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.2195427014866, 25.109637396222187]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "12"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.21676732173489, 25.10613997013278]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "13"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.21561933627652, 25.10475068700853]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "14"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.21460009685086, 25.1035751274215]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "15"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.21401001086758, 25.102768745302708]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "16"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.205923845617065, 25.10442462808126]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "17"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.19933634027649, 25.10487153325863]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "18"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.199422170964965, 25.103103333656748]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "19"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.20171814188171, 25.103647397795726]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "20"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.20459346994568, 25.103802844248026]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "21"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.20276956781555, 25.106396827759678]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "22"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.204432537404784, 25.107572360220775]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "23"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.19930415376831, 25.105648755763923]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "24"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.19657902940918, 25.105580748991922]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "25"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.195733168307186, 25.10557500996697]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "26"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.19094810742462, 25.1052835519306]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "27"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.18710718411529, 25.10301015540616]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "28"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.184982874575496, 25.100484109702187]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "29"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.18197880047882, 25.09694755807064]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "30"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.181249239626766, 25.098191192278335]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "31"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.18041239041412, 25.10038695305628]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "32"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17912493008697, 25.102640967366362]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "33"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17418966549957, 25.10318503356232]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "34"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17620668667877, 25.10483664825898]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "35"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17693624753082, 25.10532241304224]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "36"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.1778160120877, 25.105847036840803]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "37"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.182493784609676, 25.096248008272717]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "38"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.1840429412033, 25.09428995936786]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "39"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.18608142005462, 25.09197749317159]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "40"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.189250495110514, 25.08937222863972]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "41"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.19105293956852, 25.08842000370021]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "42"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.19403555599308, 25.08692363525398]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "43"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.19615986553288, 25.08562158548623]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "44"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.19755461422062, 25.084669331364136]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "45"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.19787647930241, 25.08358103186723]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "46"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.19882061687565, 25.08237611756602]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "47"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.19963600841618, 25.083678201858564]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "48"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.20259716716862, 25.082142906976475]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "49"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.21375515667057, 25.080646461788476]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "50"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.21553614345646, 25.08249272269416]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "51"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.21710255352116, 25.08424178628721]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "52"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.21901228633976, 25.08639893029746]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "53"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.22075035778141, 25.088109071503013]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "54"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.204936053429606, 25.080743634109304]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "55"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.20890084587245, 25.074488189072376]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "56"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.20759192787318, 25.07324431399372]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "57"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.20497409187465, 25.07058160143406]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "58"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.2125486501327, 25.078977695577912]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "59"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.195444634329306, 25.05666689750896]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "60"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.195208599935995, 25.051262937385133]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "61"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.21952014244698, 25.049999387164156]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "62"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.21799664772652, 25.049085735045082]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "63"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.19373913730635, 25.04196864187152]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "64"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.19624968494429, 25.042396334492782]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "65"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.199639997139116, 25.043465559520136]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "66"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.198137960090776, 25.0458178217638]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "67"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.20360966648116, 25.0440682095183]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "68"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.21051903690352, 25.045759501757836]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "69"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.21382351840987, 25.04700365586895]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "70"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.215110978737016, 25.047664607605526]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "71"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.18987675632491, 25.041171574370026]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "72"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16356100256377, 25.02387122261393]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "73"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17051328833037, 25.0294319306182]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "74"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.17853845770293, 25.035420103586493]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "75"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.1583253305667, 25.01636581163786]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "76"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.159870282959275, 25.019282476632767]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "77"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14098753149443, 25.017026928442935]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "78"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.137897626709275, 25.016871371867897]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "79"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.1398288172, 25.016910261030148]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "80"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.139678613495164, 25.024551742368537]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "81"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.13959278280669, 25.028304254957213]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "82"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16201605017119, 25.022179628592042]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "83"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.0993596475833, 25.02299626309946]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "84"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.2511801752558, 25.004534051561716]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "85"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.269204619835875, 25.013012449358634]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "86"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.27182245583441, 25.016823648491876]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "87"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.28628492684271, 25.01359580383218]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "88"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.287701133202575, 25.01242909211386]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "89"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.291177276085875, 25.009317806673746]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "90"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.29383802742865, 25.007100967712162]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "91"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.277186873864196, 24.999866793871515]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "92"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.20805617971439, 25.056184180140608]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "93"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.1757838408472, 25.04630909878058]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "94"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.157244412136265, 25.047008933884563]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "95"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.20762702627201, 25.048097558328692]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "96"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.21929999990482, 25.045998059674428]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "97"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.132068377072926, 25.093988652704333]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "98"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14150975280535, 25.093522275337182]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "99"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.20206330352556, 25.08870293844973]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "100"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.204037409360524, 25.088664072058137]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "101"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.206998568112965, 25.08792560827264]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "102"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.20880101257097, 25.08679847074581]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "103"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.2110755258156, 25.08644866733367]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "104"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14753115865631, 25.109003201746162]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "105"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14916194173736, 25.107371073554784]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "106"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.1506639787857, 25.106127532690643]),
+            {
+              "land_type": "urban",
+              "land_class": 3,
+              "system:index": "107"
+            })]),
+    Sand = 
+    /* color: #ffc82d */
+    /* shown: false */
+    ee.FeatureCollection(
+        [ee.Feature(
+            ee.Geometry.Point([55.12403597052031, 25.02499613660175]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "0"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.12360681707793, 25.023168453051415]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "1"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.108414785217576, 25.021379630031984]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "2"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.108457700561814, 25.019940775208184]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "3"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.10665525610381, 25.020679648710804]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "4"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.10511030371123, 25.021690731560156]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "5"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.10408033544951, 25.023129565871645]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "6"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.144635335754685, 25.027601510779043]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "7"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.142146245788865, 25.030401254206243]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "8"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.142661229919725, 25.027990367852738]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "9"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14480699713164, 25.032384367150033]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "10"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16519178564482, 25.014885205621308]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "11"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.16669382269316, 25.014107407208126]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "12"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.1672946375125, 25.01574077818519]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "13"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.141631261658006, 25.014029627095844]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "14"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.173388616394334, 25.018501903519482]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "15"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.10652651007109, 25.012901809931144]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "16"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.1112471979373, 25.01274624813002]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "17"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.15969862158232, 25.013407384423857]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "18"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.13446439917021, 25.027640396541866]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "19"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.12849916632109, 25.027640396541866]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "20"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.15055765325957, 25.019240785682364]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "21"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14948476965361, 25.019163008822012]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "22"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.12585987265044, 25.021535180894617]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "23"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.107216992992505, 25.023186484576485]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "24"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.107495942730054, 25.024664188060132]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "25"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.11957661213313, 25.023089266618285]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "26"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.12004868091975, 25.020911564175016]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "27"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.125670591014966, 25.028397254453708]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "28"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.11155660236642, 25.032983683398417]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "29"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.112908435709926, 25.03171994483155]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "30"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.1165776976423, 25.03026176877234]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "31"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.120654655344936, 25.031078349500472]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "32"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.12346561039254, 25.031253330378043]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "33"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.12696321094796, 25.032828147046462]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "34"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.1294737585859, 25.031058907165345]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "35"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.13282594390495, 25.032977395644117]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "36"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.13359842010124, 25.03338567765073]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "37"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.13394174285514, 25.03418279574765]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "38"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.13544377990348, 25.03525209237776]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "39"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.13829765029533, 25.03692406479095]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "40"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.139391991573405, 25.037001830395088]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "41"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14844712920768, 25.041376066241348]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "42"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14644632617791, 25.04542852934634]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "43"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.143270590704276, 25.045681249854034]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "44"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14539490024407, 25.045817329911678]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "45"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14683256427605, 25.044650924517157]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "46"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14790544788201, 25.043426186911663]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "47"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14820585529168, 25.045175808317744]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "48"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14533052722771, 25.04632276880353]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "49"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14211187640984, 25.04727532105161]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "50"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14048109332879, 25.04789739199456]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "51"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.137777426641776, 25.04929704007597]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "52"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.13784179965813, 25.05075498983556]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "53"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14337787906487, 25.047936271323707]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "54"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.144536593359305, 25.04813066778443]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "55"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.13852512405481, 25.052240383178518]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "56"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.13170158432092, 25.054650792872014]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "57"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.133139248352904, 25.05529226488497]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "58"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.11743223236169, 25.053892685255587]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "59"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.117625351410766, 25.05507844125369]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "60"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.11801158950891, 25.054475845376732]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "61"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.110664752303194, 25.05657130514722]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "62"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.111394313155245, 25.057193328916387]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "63"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.11300363856418, 25.056765687914233]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "64"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.11356153803928, 25.057504339617054]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "65"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.11328258830173, 25.05816523473528]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "66"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.13566294032199, 25.051711635776435]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "67"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.13765850382907, 25.05324731212059]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "68"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.13973989802463, 25.050156500885585]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "69"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.14192858058078, 25.051245097380676]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "70"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.132143882094454, 25.056474113648083]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "71"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.131392863570284, 25.057426587015886]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "72"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.1309637101279, 25.058048606444004]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "73"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.02527632018695, 24.789510911077222]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "74"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.01978315612445, 24.749608559771325]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "75"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.0445023944057, 24.514923948170807]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "76"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.06922163268695, 24.488681850433686]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "77"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.98682417174945, 24.689731009774604]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "78"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.93189253112445, 24.887964874031308]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "79"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.0390092303432, 25.016211086474318]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "80"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.03076948424945, 24.922841137486945]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "81"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.064391970190286, 24.400154912162176]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "82"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.98886096433091, 24.341361531828014]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "83"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.93392932370591, 24.417662548573116]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "84"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.023193239721536, 24.641295722370483]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "85"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.06851184323716, 24.703691791299875]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "86"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.68907418724484, 24.860703303627137]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "87"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.21391549583859, 24.711713000871747]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "88"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.46660104271359, 24.861949329017317]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "89"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.71710176824257, 25.14021797283263]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "90"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.756927207695696, 25.206711059325926]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "91"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.07142743211631, 24.70548801287207]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "92"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.30214032274131, 24.773463156665052]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "93"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.55276593309287, 24.68427715780618]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "94"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.78897198778037, 24.674294329803978]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "95"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.715500918444434, 24.765357981595585]),
+            {
+              "land_type": "sand",
+              "land_class": 4,
+              "system:index": "96"
+            })]),
+    Rocks = 
+    /* color: #00ffff */
+    /* shown: false */
+    ee.FeatureCollection(
+        [ee.Feature(
+            ee.Geometry.Point([56.051542076141345, 25.03144936494959]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "0"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.03094271090697, 24.958013387588835]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "1"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.07797792819213, 25.00531616582654]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "2"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.06939485934447, 24.938090987167794]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "3"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.027998089098105, 24.869128096164776]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "4"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.09082615306295, 24.858848608033032]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "5"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.988515972398886, 24.815540780811933]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "6"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.0935727350942, 24.80307529025114]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "7"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.013235210680136, 24.93047573365486]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "8"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.073660015367636, 24.921758131730492]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "9"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.06027042796529, 24.963783745887092]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "10"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.00635626311987, 24.737858345128366]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "11"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.014939331967526, 24.76654216868385]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "12"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.089097046811276, 24.75188930340586]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "13"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.06643774505346, 24.731310022714837]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "14"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.003953003842526, 24.771529983772815]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "15"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.023179078061276, 24.729439010130893]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "16"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.07055761810034, 24.71696487383042]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "17"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([55.955260949983426, 24.624212287728504]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "18"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.086410241975614, 24.60985481642223]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "19"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.08469362820608, 24.54959790514115]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "20"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.086153472325805, 24.404539712229923]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "21"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.0848243999132, 24.35491409982862]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "22"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.091004209483515, 24.3777442448886]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "23"
+            }),
+        ee.Feature(
+            ee.Geometry.Point([56.00254847348265, 24.50762226230317]),
+            {
+              "land_type": "Rocks",
+              "land_class": 5,
+              "system:index": "24"
+            })]);
