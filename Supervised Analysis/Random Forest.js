@@ -35,7 +35,7 @@ var predictionBands = image.bandNames();
 
 var trainingData = Water.merge(Vegetation).merge(Urban).merge(Sand).merge(Rocks);
 
-// sample the region
+// sample the regions
 var classifierTraining = image.select(predictionBands).sampleRegions(
                        {collection: trainingData, 
                          properties: ['land_class'], scale: 20 });
